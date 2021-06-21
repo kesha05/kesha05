@@ -1,3 +1,4 @@
+![computer](https://user-images.githubusercontent.com/77222164/122715871-2c43f080-d287-11eb-882b-50288e5d391f.gif)
 <h1 align="center">Hi 👋, I'm Kesha Mehta</h1>
 <h3 align="center">A girl who love to explore new things</h3>
 
