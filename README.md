@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_kesha_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kesha_mehta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kesha-mehta-626b44199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kesha-mehta-626b44199/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucl9czlk_pph1bkcf4-xjyzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucl9czlk_pph1bkcf4-xjyzw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kesha mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesha mehta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kesha mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kesha mehta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
